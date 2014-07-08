@@ -47,4 +47,4 @@ Contains (only?) the JPEGs created from the RAW files.
 
 Here are the contents of my `iPhoto Library`:
 
-![](https://github.com/AlexanderSelzer/iphoto-library/blob/master/iPhoto.jpg)
+![](https://raw.githubusercontent.com/AlexanderSelzer/iphoto-library/master/iPhoto.jpg)
